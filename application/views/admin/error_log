@@ -1,0 +1,8 @@
+[17-Jan-2025 10:17:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_settings() in /home/triporsq/chow/application/views/admin/include-sidebar.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/triporsq/chow/application/views/admin/include-sidebar.php on line 1
+[17-Jan-2025 10:22:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_settings() in /home/triporsq/chow/application/views/admin/include-sidebar.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/triporsq/chow/application/views/admin/include-sidebar.php on line 1
